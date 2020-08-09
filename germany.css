@@ -1,0 +1,16 @@
+#flag li{
+	height: 80px;
+	width: 500px;
+	margin: 0 auto;
+	list-style-type: none;
+	
+}
+ li:nth-child(1){
+	background-color: #000000;
+}
+li:nth-child(2){
+	background-color: #ff0000;
+}
+li:nth-child(3){
+	background-color: #ffd700;
+}

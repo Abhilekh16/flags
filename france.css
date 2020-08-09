@@ -1,0 +1,23 @@
+
+#french-flag{
+	height: 140px;
+	width: 80px;
+	margin: 0 auto;
+	background-color: #ffffff;
+}
+#french-flag:before{
+	content: "";
+	height: 140px;
+	width:	80px;
+	position: absolute;
+	background-color: #0000ff;
+	left: 40%;
+}
+#french-flag:after{
+	content: "";
+	height: 140px;
+	width: 80px;
+	position: absolute;
+	background-color: #ff0000;
+	right: 40%;
+}
